@@ -25,4 +25,12 @@ function hidemenu(){
   }
 
  
-
+// let hiddenTab = document.querySelectorAll(".hidden-project")
+// let see_more = document.getElementById("seemore");
+// see_more.addEventListener("click" ,()=>{
+//   console.log("running");
+//   console.log(hiddenTab);
+//   for(let tab of hiddenTab){
+//     tab.classList.toggle("show");
+//   }
+// })

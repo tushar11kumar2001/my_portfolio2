@@ -261,7 +261,12 @@ nav ul li a:hover:after {
     background-color: #ff004f;
 }
 
-
+.hidden-project{
+    display: none;
+}
+.show{
+    display: inline;
+}
 
 
 
