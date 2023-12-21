@@ -23,3 +23,6 @@ function showmenu(){
 function hidemenu(){
     ul.style.right = "-200px";
   }
+
+ 
+
