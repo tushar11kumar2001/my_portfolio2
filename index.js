@@ -4,6 +4,18 @@ let workList = document.querySelector(".work-list");
 
 let projects = [
   {
+    
+      image: "./images/burger.png",
+      name: "BURGER APP ",
+      type: "(React Application)",
+      description: `  I developed a responsive React application, seamlessly combining
+      the power of components and state management to deliver a smooth
+      user experience. Leveraging modern web technologies, I crafted
+      an intuitive interface that reflects my dedication to creating
+      dynamic and engaging user interfaces.`,
+      link: "https://swiggy-sepia.vercel.app/",
+    }, 
+{
     image: "./images/minieditor.png",
     name: "MINI EDITOR",
     type: "(React Application)",
@@ -23,17 +35,7 @@ let projects = [
     link: "https://timer-dusky-pi.vercel.app",
   },
 
-  {
-    image: "./images/burger.png",
-    name: "BURGER APP ",
-    type: "(React Application)",
-    description: `  I developed a responsive React application, seamlessly combining
-    the power of components and state management to deliver a smooth
-    user experience. Leveraging modern web technologies, I crafted
-    an intuitive interface that reflects my dedication to creating
-    dynamic and engaging user interfaces.`,
-    link: "https://burger-app-ten.vercel.app/",
-  },
+
 
   {
     image: "./images/weather.webp",
