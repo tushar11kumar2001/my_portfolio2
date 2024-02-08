@@ -15,7 +15,7 @@ body {
 
 #stopped{
     color: red;
-    margin: 40px;
+    margin-top: 40px;
 }
 .arrow{
     position: fixed;
